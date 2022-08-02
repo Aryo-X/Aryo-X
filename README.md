@@ -12,11 +12,6 @@
   <img width="400" height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dapunta&layout=compact&theme=chartreuse-dark">
 </p>
 <p align="center">
-<a href="https://github.com/Aryo-X/IG"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Aryo-X&repo=sakera&theme=chartreuse-dark"></a>
-<a href="https://github.com/Aryo-X/Cloning"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Aryo-X&repo=elite&theme=chartreuse-dark"></a>
-<a href="https://github.com/Aryo-X/META"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Aryo-X&repo=premium&theme=chartreuse-dark"></a>
-</p>
-<p align="center">
   <img width="auto" height="auto" src='https://github-profile-trophy.vercel.app/?username=Dapunta&theme=monokai&row=1&column=5&no-frame=true'
 </p>
 <h3 align="center">

@@ -1,4 +1,15 @@
-# Hy im Aryo X Nano 
+# Hy im Aryo X Nano
+<h1 align="center">Hi <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, I'm MR.Alvino a lupine</h1>
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Welcome+To+My+Github;You+Know+Who+Is+Handsome;Al+Vino+Adijaya;Nice+To+Meet+You+...&center=true"></a>
+
+<h1 align="center">Hi <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, I'm MR.Alvino a lupine</h1>
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Welcome+To+My+Github;You+Know+Who+Is+Handsome;Al+Vino+Adijaya;Nice+To+Meet+You+...&center=true"></a>
 <p align="center">
   <img width="1000" height="400" src="https://user-images.githubusercontent.com/76211798/129931208-6af05b6a-f22a-4927-92a2-94132f5575db.jpg">
 </p>

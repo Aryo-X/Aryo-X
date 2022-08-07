@@ -5,7 +5,7 @@
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Koulen&size=25&duration=5000&color=light&center=true&vCenter=true&multiline=true&width=600&lines=Selamat+Datang+Digithub+Yusep-XD+Jangan+Lupa+Follow)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Koulen&size=25&duration=5000&color=light&center=true&vCenter=true&multiline=true&width=600&lines=Selamat+Datang+Digithub+Aryo X+Codee+Jangan+Lupa+Follow)](https://git.io/typing-svg)
 
 <h1 align="center">Hi 👋, I'm Aryo X Codee</h1>
 

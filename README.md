@@ -1,25 +1,33 @@
-<h1 align="center">Hi <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, I'm Aryo X Codee </h1>
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
-    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Welcome+To+My+Github+Aryo+X+Code;You+Know+Who+Is+Handsome;Aryo+X+Code;Nice+To+Meet+You+...&center=true"></a>
-<p align="center">
-  <img width="600" height="220" src="https://github-readme-stats.vercel.app/api?username=Aryo-X&show_icons=true&theme=chartreuse-dark&locale=id">
-</p>
-<p align="center">
-  <img width="400" height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dapunta&layout=compact&theme=chartreuse-dark">
-</p>
-<p align="center">
-  <img width="auto" height="auto" src='https://github-profile-trophy.vercel.app/?username=Dapunta&theme=monokai&row=1&column=5&no-frame=true'
-</p>
+</i></b></h3>
 <h3 align="center">
-  <a href="https://saweria.co/Dapunta" target="blank">Support Me!</a>
-</h3>
-<p align="center">
-  <a href="https://www.github.com/Aryo-X"><img width="50" height="50" src="https://camo.githubusercontent.com/b079fe922f00c4b86f1b724fbc2e8141c468794ce8adbc9b7456e5e1ad09c622/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6769746875622e737667"></a>
-  <a href="https://youtube.com/channel/UC0QRdEQJqxaUpn8-s59qhEA"><img width="50" height="50" src="https://camo.githubusercontent.com/d54e97f5edde790381f7e62b217410df33e066a0dc8f692f2fc6b25fc1768b0c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f796f75747562652e737667"></a>
-  <a href="https://www.facebook.com/Legen.Aryo"><img width="50" height="50" src="https://camo.githubusercontent.com/8f245234577766478eaf3ee72b0615e99bb9ef3eaa56e1c37f75692811181d5c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f66616365626f6f6b2e737667"></a>
-  <a href="https://www.messenger.com/Legen.Aryo"><img width="50" height="50" src="https://camo.githubusercontent.com/0b9b5efe8bd5edcdaec78496cf9ddaf6d98cd2b2574e23d5deca0b5e7eae583a/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6d657373656e6765722e737667"></a>
-  <a href="https://www.instagram.com/aryoooo_27"><img width="50" height="50" src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667"></a>
-  <a href="https://api.whatsapp.com/send/?phone=6285696526470&text=Hello+Bro!"><img width="50" height="50" src="https://camo.githubusercontent.com/945d32cdd8d51fe844ca8b2976914ae8786586607aee1cba24d7318e24b30411/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f77686174736170702e737667"></a>
+  <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
+  &nbsp; 𝚆𝙴𝙻𝙲𝙾𝙼𝙴 𝚃𝙾 𝙼𝚈 𝙿𝚁𝙾𝙵𝙸𝙻𝙴&nbsp;
+  <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Koulen&size=25&duration=5000&color=light&center=true&vCenter=true&multiline=true&width=600&lines=Selamat+Datang+Digithub+Yusep-XD+Jangan+Lupa+Follow)](https://git.io/typing-svg)
+
+<h1 align="center">Hi 👋, I'm Aryo X Codee</h1>
+
+<h3 align="center">Dari Indonesia</h3>
 </p>
+<h1 align="center">★ Memek ★ <img src="https://github.com/mitul3737/mitul3737/blob/main/mituls code.gif"
+
+![20200808_160757](https://raw.githubusercontent.com/Niki404-Cyber/Niki404-Cyber/main/106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594.gif)
+
+[![FB-IMG-16595104855369183.jpg](https://i.postimg.cc/9f8CjFJ5/FB-IMG-16595104855369183.jpg)](https://postimg.cc/GByZFRWq)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"
+<a href="https://twitter.com/mark" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mark" height="30" width="40" /></a>
+<a href="https://fb.com/Legen.Aryo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="asepyusup21" height="30" width="40" /></a>
+<a href="https://instagram.com/aryoooo_27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="asepyusup18" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Naereen&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)

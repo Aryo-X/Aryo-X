@@ -7,11 +7,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Koulen&size=25&duration=5000&color=light&center=true&vCenter=true&multiline=true&width=600&lines=Selamat+Datang+Digithub+AryoX+Code+Jangan+Lupa+Follow)](https://git.io/typing-svg)
 
-<h1 align="center">Hi 👋, I'm Aryo X Codee</h1>
+<h1 align="center">HI DEK SAYA ARYO X OWI</h1>
 
-<h3 align="center">Dari Mars</h3>
+<h3 align="center">DARI MOSKOW</h3>
 </p>
-<h1 align="center">★ Aryo Tampan ★ <img src="https://github.com/mitul3737/mitul3737/blob/main/mituls code.gif"
+<h1 align="center">★ ARYO TAMPAN ★ <img src="https://github.com/mitul3737/mitul3737/blob/main/mituls code.gif"
 
 ![20200808_160757](https://raw.githubusercontent.com/Niki404-Cyber/Niki404-Cyber/main/106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594.gif)
 
